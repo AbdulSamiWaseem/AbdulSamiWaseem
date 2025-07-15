@@ -11,6 +11,8 @@
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-waseem-9780b6265)
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=flat&logo=github&logoColor=white)](https://github.com/AbdulSamiWaseem)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abdul_sami_waseem/)
+
 
 ---
 
