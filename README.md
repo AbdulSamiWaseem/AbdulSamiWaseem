@@ -2,7 +2,7 @@
 <h3 align="center">React Native | React JS | Next JS | MERN Stack Developer</h3>
 
 - 🔭 I’m currently working as a **Full Stack Developer at CodeFlamme**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/AbdulSamiWaseem)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sami-waseem.vercel.app/)
 - 📫 How to reach me: **abdulsamiwaseem26@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems with clean and scalable code.
 
