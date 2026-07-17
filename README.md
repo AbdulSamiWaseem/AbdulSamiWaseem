@@ -1,65 +1,318 @@
-<h1 align="center">Hi 👋, I'm Sami Waseem</h1>
-<h3 align="center">React Native | React JS | Next JS | MERN Stack Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working as a **Full Stack Developer at CodeFlamme**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sami-waseem.vercel.app/)
-- 📫 How to reach me: **abdulsamiwaseem26@gmail.com**
-- ⚡ Fun fact: I love solving real-world problems with clean and scalable code.
+# 👋 Hi, I'm Abdul Sami Waseem
 
----
+### Full Stack Engineer • AI Application Developer • React Native Developer
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-waseem-9780b6265)
-[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=flat&logo=github&logoColor=white)](https://github.com/AbdulSamiWaseem)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abdul_sami_waseem/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;+AI-Powered+Applications;Backend+%26+Cloud+Enthusiast;Always+Learning+Always+Building" />
 
----
+<br>
 
-## 💻 Tech Stack
+<a href="https://komarev.com/ghpvc/?username=AbdulSamiWaseem">
+<img src="https://komarev.com/ghpvc/?username=AbdulSamiWaseem&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-ReactNative-blue?style=flat&logo=react) ![Next JS](https://img.shields.io/badge/-NextJS-000?style=flat&logo=next.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+<a href="https://github.com/AbdulSamiWaseem?tab=followers">
+<img src="https://img.shields.io/github/followers/AbdulSamiWaseem?style=for-the-badge"/>
+</a>
 
-**Styling**  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-
-**Backend**  
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 💫 About Me
 
-### 🔹 [SPClaims App](https://play.google.com/store/apps/details?id=com.spclaims)
-A React Native-based mobile app for insurance claims — supports employee and company flows with full admin panel control.
+```typescript
+const sami: Developer = {
+  name: "Abdul Sami Waseem",
 
-### 🔹 [Dilkash (MERN eCommerce)](https://dilkash.vercel.app/)
-Complete MERN stack eCommerce website with client & admin dashboards, Stripe payments, full authentication, and product/order management.
+  role: "Full Stack Engineer",
 
-### 🔹 CricSync
-A full-stack cricket match-making platform using React.js (frontend) and Django REST Framework (backend).
+  company: "RipeSeed",
 
-### 🔹 Automated Trading App (In Progress)
-A cross-platform trading app that supports real-time market data, WebSockets, and trading strategies with a Node.js backend.
+  location: "Pakistan 🇵🇰",
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "C++"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "React Native",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "Django"
+  ],
+
+  databases: [
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL"
+  ],
+
+  cloudAndTools: [
+    "Firebase",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Postman"
+  ],
+
+  currentlyBuilding: [
+    "AI-powered Applications",
+    "LLM Function Calling",
+    "Healthcare Platforms",
+    "Resource Booking Systems"
+  ],
+
+  currentlyLearning: [
+    "AI Agents",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Vector Databases",
+    "Cloud",
+    "System Design"
+  ],
+
+  askMeAbout: [
+    "React",
+    "React Native",
+    "Node.js",
+    "MongoDB",
+    "AI Integration",
+    "REST APIs"
+  ],
+
+  funFact:
+    "I enjoy building software that solves real-world problems at scale."
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamiWaseem&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamiWaseem&layout=compact&theme=radical)
+- 💼 Full Stack Engineer at **RipeSeed**
+- 📱 Building scalable Web & Mobile Applications
+- 🤖 Developing AI-powered applications using LLMs & Function Calling
+- 🏥 Contributed to a production HIPAA-compliant Telehealth Platform
+- 🌱 Currently learning AI Agents, RAG, Cloud & System Design
+- 💡 Passionate about backend architecture and scalable software
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdulSamiWaseem&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+React Native
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode"/>
+</p>
 
 ---
 
-> 💬 *"Clean code, real-world problems, scalable solutions — that’s what I aim for."*
+# 🏥 Production Experience
+
+## 🏥 OhanaDoc
+
+**HIPAA-Compliant Telehealth Platform**
+
+🌐 https://ohanadoc.com
+
+Worked on a production healthcare platform delivering secure telehealth experiences.
+
+### Key Contributions
+
+- 🔐 Developed features for a HIPAA-compliant healthcare platform
+- 💬 Integrated **Twilio** for patient-provider messaging
+- 📹 Integrated **Agora SDK** for secure video consultations
+- 👨‍⚕️ Built patient & provider workflows
+- 📅 Appointment scheduling and consultation flows
+- 🔑 Authentication and role-based authorization
+- ⚡ REST API development
+- 🐞 Bug fixes, enhancements and production deployments
+
+### Experience Gained
+
+- HIPAA-compliant software development
+- US Healthcare terminology
+- Telehealth workflows
+- Secure handling of healthcare data
+- Real-time messaging
+- Video calling systems
+- Production software development
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Booking Assistant *(In Progress)*
+
+Building an AI assistant capable of intelligent booking through LLM Function Calling.
+
+### Features
+
+- OpenAI Function Calling
+- Weather API
+- Maps API
+- Resource Booking
+- Intelligent Tool Calling
+- Node.js Backend
+
+---
+
+## 📱 SPClaims
+
+Insurance Claim Management Platform
+
+### Built With
+
+- React Native
+- Node.js
+- MongoDB
+
+### Features
+
+- Employee Portal
+- Company Portal
+- Admin Dashboard
+- Authentication
+- Real-time Updates
+
+📱 Play Store
+
+https://play.google.com/store/apps/details?id=com.spclaims
+
+---
+
+## 🛒 Dilkash Ecommerce
+
+Production-ready MERN Ecommerce Platform
+
+### Features
+
+- Stripe Payments
+- JWT Authentication
+- Admin Dashboard
+- Product Management
+- Order Management
+
+🌍 https://dilkash.vercel.app/
+
+---
+
+## 🏏 CricSync
+
+Cricket Matchmaking Platform
+
+### Stack
+
+- React
+- Django REST Framework
+- PostgreSQL
+
+---
+
+# 🎯 Current Focus
+
+- AI Agents
+- Function Calling
+- LangChain
+- LangGraph
+- RAG
+- Vector Databases
+- Cloud Engineering
+- Backend Scalability
+- Distributed Systems
+- System Design
+
+---
+
+# 📈 GitHub
+
+⭐ Dynamic GitHub statistics are temporarily unavailable due to the public GitHub Stats service. Please explore my pinned repositories below to see my latest work.
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/sami-waseem-9780b6265">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbdulSamiWaseem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/abdul_sami_waseem/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:abdulsamiwaseem26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+### 🌐 Portfolio
+
+https://sami-waseem.vercel.app
+
+### 📧 Email
+
+abdulsamiwaseem26@gmail.com
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+*"Clean code. Scalable systems. Real-world impact."*
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.
+
+</div>
